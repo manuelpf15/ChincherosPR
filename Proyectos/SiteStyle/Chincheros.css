@@ -5,12 +5,12 @@ body {
     background-color: black;
 }
 
-header , hr{
+header {
     background-color: orange;
     width: 1850px;
     height: 20000;
     margin-bottom: 15px;
-    display: inline-flex
+    display: inline-flex;
 }
 h1{
     padding-top:65px;
@@ -64,7 +64,7 @@ h3{
     
 }
    
-Nav{
+nav{
     
     font-size: 40px;
     text-align: right;
