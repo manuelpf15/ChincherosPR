@@ -136,6 +136,15 @@ border-radius:35px;
     
     
 }
+.btn{
+    
+     background-color: orange;
+    width: 1850px;
+    height: 200px;
+
+    display: inline-flex;
+    
+}
 
 
 
