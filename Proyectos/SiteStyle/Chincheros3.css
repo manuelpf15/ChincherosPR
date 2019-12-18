@@ -1,0 +1,101 @@
+<style>
+body{
+    font-family:"verdana";
+    font-size: 11px;
+   
+}
+
+input, textarea{
+    border: 1px solid #aaa;
+    box-shadow: 0px 0px 3px #ccc, 0 10px 15px #eee inset;
+    border-radius: 4px;
+}
+
+textarea{
+    overflow: auto;
+    padding: 5px;
+}
+
+#submit{
+    color: black;
+    font-weight: bold;
+}
+
+label{
+    padding-top: 15px;
+    display: block;
+    font-weight: bold;
+}
+
+legend{
+    font-size: 16px;
+    font-weight: bold;
+    color: black
+}
+
+fieldset{
+    border: 1px solid #555;
+    border-radius: 4px;
+    margin-top: 5px;
+    
+}
+
+input:invalid, textarea:invalid{
+    
+    background: #fff;
+    box-shadow: 0 0 5px orange;
+    border-color: orange;
+}
+
+
+
+</style>
+
+
+
+
+
+
+
+
+tbody{}
+
+table{margin-left: 500px
+
+    
+       
+}
+
+caption{
+    font-size: 25px;
+    caption-side: top;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    
+}
+thead{
+
+background-color:darkorange;
+    padding: 10px;
+    
+}
+
+th{
+    background-color:darkorange;
+    padding: 10px;
+}
+td { padding: 10px;
+    text-align: center
+
+}
+
+
+hr{
+    padding-bottom: 15px;
+    
+
+}
+
+
+

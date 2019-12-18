@@ -1,0 +1,142 @@
+body {
+    margin: auto;
+    max-width:2000px;
+   font-family: 'Calistoga', cursive;
+    background-color: black;
+}
+
+header{
+    background-color: orange;
+    width: 1850px;
+    height: 20000;
+    margin-bottom: 15px;
+    display: inline-flex
+}
+h1{
+    padding-top:65px;
+    padding-left: 10px;
+    color: black;
+    
+}
+
+
+
+
+#art2{
+    margin-left: 20px;
+    
+}
+#img1{
+    padding-left: 40px;
+    padding-top: 100px;
+    font-size:25px;
+    width: 920px;
+   
+}
+p{
+    font-size: 25px;
+    width: 420px;
+    text-align: justify;
+    color:white; 
+
+    
+}
+
+section{
+    display: inline-flex;
+}
+    #art2 {
+        
+    margin-left: auto;
+     font-size: 30px;
+        
+}
+h3{
+    background-color: orange;
+    padding-left: 140px
+}
+#art3{
+    
+    
+    padding-left: 30px;
+    font-size: 30px;
+    text-align:justify;
+    
+}
+   
+Nav{
+    
+    font-size: 40px;
+    text-align: right;
+    padding-left: 1050px;
+    padding-top: 100px;
+    color: white
+    
+}
+
+    
+#img2{
+    
+    
+width: 200px;
+    height: 200px;
+}
+    
+
+
+.boton-personalizado {
+text-decoration:none;
+font-weight: 600;
+font-size: 50px;
+color:orange;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:black;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+
+}
+.boton-personalizado1 {
+text-decoration:none;
+font-weight: 600;
+font-size: 50px;
+color:orange;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:black;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+    margin-left: 500px
+}
+
+
+.boton-personalizado2 {
+text-decoration:none;
+font-weight: 600;
+font-size: 50px;
+color:orange;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:px;
+background-color:black;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+    margin-left: 600px;
+    
+    
+}
+
+
+
+    
