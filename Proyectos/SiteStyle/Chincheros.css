@@ -3,6 +3,9 @@ body {
     max-width:2000px;
    font-family: 'Calistoga', cursive;
     background-color: black;
+     box-sizing: 80%;
+}
+    
 }
 
 header {
